@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace Entity;
 
-Console.WriteLine("Hello, World!");
+public static class Core
+{
+    public static void Main()
+    {
+        
+    }
+}
